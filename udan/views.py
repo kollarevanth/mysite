@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.shortcuts import render
-from requests import Response
+#from requests import Response
 from rest_framework.compat import authenticate
 from rest_framework.decorators import api_view
 from rest_framework.generics import CreateAPIView,ListAPIView,UpdateAPIView
